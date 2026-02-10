@@ -40,7 +40,7 @@
   <img align="center" alt="Gentoo" height="30" width="40" src="https://raw.githubusercontent.com/Torbenn-1/pngdb/branch/gentoo-original.svg">
   <img align="center" alt="Red Hat" height="30" width="40" src="https://raw.githubusercontent.com/Torbenn-1/pngdb/branch/redhat-original.svg">
   <img align="center" alt="Azure Sentinel" height="30" width="40" src="https://raw.githubusercontent.com/Torbenn-1/pngdb/branch/10248-icon-service-Azure-Sentinel.svg">
-  <img align="center" alt="IBM" height="30" width="40" src="https://raw.githubusercontent.com/Torbenn-1/pngdb/branch/IBM.png">
+  <img align="center" alt="IBM" height="30" width="40" src="https://raw.githubusercontent.com/Torbenn-1/pngdb/branch/IBM-Logo.wine.png">
   <img align="center" alt="Rapid7" height="30" width="40" src="https://raw.githubusercontent.com/Torbenn-1/pngdb/branch/rapid7.png">
   <img align="center" alt="SecOps" height="30" width="40" src="https://raw.githubusercontent.com/Torbenn-1/pngdb/branch/secops.png">
   
